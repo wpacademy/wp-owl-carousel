@@ -1,9 +1,11 @@
 ### Owl Carousel for WordPress
 <sup>*This plugin is based off [Tanel Kollamaa's "WP Owl Carousel"](https://wordpress.org/plugins/wp-owl-carousel/) (no longer maintained)*</sup>
 
-* Install & Activate plugin inside WordPress admin
-* Create Carousels using the menu in the admin sidebar
-* Use Carousel in your posts using shortcode `[wp_owl id="xxxx"]`
+## Installation
+
+1. Click on the `Download ZIP` button at the right to download the plugin.
+2. Upload the entire `wp-owl-carousel` folder to the `/wp-content/plugins/` directory.
+3. Activate the plugin through the `Plugins` menu in WordPress.
 
 #### Hooks
 
